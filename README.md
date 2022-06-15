@@ -2,5 +2,15 @@
 
  Я Никита Барсуков студент университета ИТМО. Здесь можно найти мой код, написанный за время учебы в университете.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnkspbrus&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnkspbrus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div class="stats">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=bnkspbrus&show_icons=true&count_private=true&hide=stars&hide_border=true&text_color=000">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnkspbrus&langs_count=6&hide=TeX&hide_border=true&text_color=000">
+      </td>
+    </tr>
+  </table>
+</div>
